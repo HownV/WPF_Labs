@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPF_Lab1">
+    <Style TargetType="TextBox">
+        <Setter Property="MinWidth"
+                Value="160" />
+        <Setter Property="FontSize"
+                Value="14" />
+        <Setter Property="Margin"
+                Value="0,8" />
+        <Setter Property="Padding"
+                Value="4" />
+    </Style>
+</ResourceDictionary>
